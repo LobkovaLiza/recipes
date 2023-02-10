@@ -31,7 +31,7 @@
 
 # Просмотр сайта
 
-Для просмотра сайта нужно перейти по ссылке [https://lobkovaliza.github.io/recipes/](https://lobkovaliza.github.io/recipes/) и перед вами появится Главная страница сайта
+Для просмотра сайта нужно перейти по ссылке [https://lobkovaliza.github.io/ssite/](https://lobkovaliza.github.io/ssite/) и перед вами появится Главная страница сайта
 
 # Документация
 
