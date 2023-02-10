@@ -40,8 +40,8 @@
 
 # Документация разработки
 
-* [Техническое задание](https://docviewer.yandex.ru/?url=ya-browser%3A%2F%2F4DT1uXEPRrJRXlUFoewruDED_ISfmhkhF5kOy2ncm38f6nOCI7oi1BjkLs4avRikJ0wK9uSAdPeR5BbmLkWSpLe_6gR0pvK6DE9JgcTE0KHYOMDdu1M-rNl6ifNZNUJx6Dj-KAjiDCkvTgjuSz-pZw%3D%3D%3Fsign%3DveEi7s0J461r44BaiNmYqmVeHBJwF34O-0ZUYY-652g%3D&name=Техническое_задание_на_сайт_Лобкова.docx)
-* [Спецификация](https://docviewer.yandex.ru/?url=ya-browser%3A%2F%2F4DT1uXEPRrJRXlUFoewruNXizk3vT4XkUzNpcW_S9MCQQK3j0-VndWblK4JOJX2jrk_o29B-9wbElqzT0EhHnJGrfEZhVcAErJo7WC9AqJwRVQ7cEV72QkbbVtQ3R3SbNR7cVT0l9PZWdf6JwGHEkQ%3D%3D%3Fsign%3D1sXBYStj-sU8gJEJ4LyZB0sSUVUbZwUKGLl8vThtapY%3D&name=Спецификация_%282%29.docx)
+* [Техническое задание](https://disk.yandex.ru/edit/disk/disk%2Fcollege%2FТехническое%20задание%20на%20сайт%20Лобкова.docx?sk=y08fc35a5ee177c7cfd2b0d64cbd61853)
+* [Спецификация](https://disk.yandex.ru/edit/disk/disk%2Fcollege%2FСпецификация%20%282%29.docx?sk=y08fc35a5ee177c7cfd2b0d64cbd61853)
 
 # Документация тестирования
 
