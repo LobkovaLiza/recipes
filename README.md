@@ -47,8 +47,8 @@
 
 # Документация разработки
 
-* [Техническое задание](https://disk.yandex.ru/edit/disk/disk%2Fcollege%2FТехническое%20задание%20на%20сайт%20Лобкова.docx?sk=y08fc35a5ee177c7cfd2b0d64cbd61853)
-* [Спецификация](https://disk.yandex.ru/edit/disk/disk%2Fcollege%2FСпецификация%20%282%29.docx?sk=y08fc35a5ee177c7cfd2b0d64cbd61853)
+* [Техническое задание](https://disk.yandex.ru/edit/disk/disk%2Fcollege%2FТехническое%20задание%20на%20сайт%20Лобкова.docx?sk=yfaa8e8807d3107bf370dfcd8b90b05d7)
+* [Спецификация](https://github.com/nayjk/recipes/wiki/2.-Спецификация)
 
 # Документация тестирования
 
