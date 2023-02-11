@@ -38,12 +38,12 @@
 
 # Просмотр сайта
 
-Для просмотра сайта нужно перейти по ссылке [https://lobkovaliza.github.io/ssite/](https://lobkovaliza.github.io/ssite/) и перед вами появится Главная страница сайта
+Для просмотра сайта нужно перейти по ссылке [https://nayjk.github.io/ssite/](https://lobkovaliza.github.io/ssite/) и перед вами появится Главная страница сайта
 
 # Документация
 
 Пользовательская документация:
-* [Руководство пользователя](https://github.com/LobkovaLiza/recipes/wiki/10.-Руководство-пользователя)
+* [Руководство пользователя](https://github.com/nayjk/recipes/wiki/10.-Руководство-пользователя)
 
 # Документация разработки
 
@@ -52,5 +52,5 @@
 
 # Документация тестирования
 
-* [Тестовый граф](https://github.com/LobkovaLiza/recipes/wiki/8.-Тестовый-граф-и-тестовые-пути)
-* [Тест-кейсы](https://github.com/LobkovaLiza/recipes/wiki/9.-Тест-кейс)
+* [Тестовый граф](https://github.com/nayjk/recipes/wiki/8.-Тестовый-граф-и-тестовые-пути)
+* [Тест-кейсы](https://github.com/nayjk/recipes/wiki/9.-Тест-кейс)
